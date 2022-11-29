@@ -1,18 +1,42 @@
 [
 
+
+
+ {
+    "genre": "Action,Adventure,Fantasy,Isekai,Manhua",
+    "image_small":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijcvB5CLpXe4ZicsdrYaTMJujY-OOzl1u6sr2HfVazt20V2drKGuO4X7pHOgKFUfOPt6LqA2GGlrsoLyHGzXxbTkGas0qIkkEG6hHb3gX1ssVoqSyWNf6CKNewtjeUkwnPf9TmQLz6ZYW22ADtlB0w6vpGRHOay3jx10QQGMCqwZcfADhUo9dNRrAk/s0/%5Blogo%5Dwhod-want-to-be-a-castellan-manhua-manga-.png",
+    "link": "https://raw.githubusercontent.com/099fwm/paid992/main/data/Who'd%20want%20to%20be%20a%20Castellan/",
+    "rating": "4/5",
+    "review": "comming soon",
+    "series_id": "021",
+    "admob_id" : "testhousekeeper",
+    "status": "ongoing",
+    "title": "Who'd want to be a Castellan"
+},   
 {
-    "genre": "Action,Adventure,Harem,Isekai,Magic,Manhua",
+    "genre": "Action,Adventure,Fantasy,Time Travel,Isekai,Manhua",
+    "image_small":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsPQg3I-MF8XH0PSRpdwxGOIC_trPi3GpYO2aUzSpRH5Y60WpikpDD2AZfz6JSZGcPdsdLqFXqBQ7hCpSYYgNWH5TkgQDjhoVW0DIZP-oyZQ_13BN4LCgpBHbqie5z-BM2IaHKXTxkxOnNIa6BrFXxnopLeRqowQ42MniHi1NChoH2pOLiOpTTb9hg/s0/LUN%20PAN%20SHI%20JIE%20%5Blogo%5D.png",
+    "link": "https://raw.githubusercontent.com/099fwm/paid992/main/data/wheel%20world/",
+    "rating": "4/5",
+    "review": "comming soon",
+    "series_id": "020",
+    "admob_id" : "testhousekeeper",
+    "status": "ongoing",
+    "title": "Wheel World"
+},
+{
+    "genre": "Action,Adventure,Harem,Isekai,Magic,Manga",
     "image_small":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDjKV2JUnhQ0IV_I91Uv9BNQNhwvyHjVO0V_TzgozfRAh6yshK8ySxiBsMctNQo9fNE2WYBwYyK5hsRnwlW3A8ogwdgLVoEqbkaXdVv0zxUHoKx5MCaKsuJKQ0vVeIA6IlKC_ulJPBVGwLcIOrioo8GVNVnifOd0jOBAF-aj8Vq4hVAYtQQVqveNo/s0/Kuro%20No%20Shoukanshi.png",
     "link": "https://raw.githubusercontent.com/099fwm/paid992/main/data/Kuro%20No%20Shoukanshi/",
     "rating": "4.5/5",
-    "review": "",
+    "review": "comming soon",
     "series_id": "019",
     "admob_id" : "testhousekeeper",
     "status": "ongoing",
     "title": "Kuro No Shoukanshi"
 },    
 {
-    "genre": "Adventure,Fantasy,Harem,Romance,Shouen,Slice of Life,Isekai,Manhua",
+    "genre": "Adventure,Fantasy,Harem,Romance,Shouen,Slice of Life,Isekai,Manga",
     "image_small":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ3TSjrx5JECQUG-M8UYcFymBbQTVyk9ao112B1lBk4rIUCCqsfU7ARNfh2N9EzOEoS4llYaIXuESpAyDTChhnp45WjKpd__095o-gsk4WiIVEDqvsFg5KHfmamybkXIx5rwwXSsVUBmQjeRDvhiCnPWxLKMZPjEUWvZvQWWRoLM4HEHVVoaGP15I/s0/Isekai-Nonbiri-Nouka%20poster%20+%20logo.jpg",
     "link": "https://raw.githubusercontent.com/099fwm/paid992/main/data/Isekai%20Nonbiri%20Nouka/",
     "rating": "4.2/5",
@@ -23,7 +47,7 @@
     "title": "Isekai Nonbiri Nouka"
 },
 {
-    "genre": "Action,Adventure,Romance,Fantasy,Shounen,Slice of Life,Manhua",
+    "genre": "Action,Adventure,Romance,Fantasy,Shounen,Slice of Life,Manga",
     "image_small":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKijaP8_pQ8uJ9b7FIcacE3blarN9zhGU-56aoVf0V5PBwmOxlm6Qvb1rlABg2-4H8XhdLpiIEQxsoe9pbhhW1EdpFd4D0WzTx292cTCkAzwx0TheAuOmM8jOGj0I2KW8cDu42eKh1oFgyvpJQu2sNk-hnnVjLtSK5yhDynsmvcmzxroKqcGXnXhI/s1600/02.jpg",
     "link": "https://raw.githubusercontent.com/099fwm/paid992/main/data/Living%20In%20This%20World%20With%20Cut%20%26%20Paste/",
     "rating": "4.5/5",
@@ -34,7 +58,7 @@
     "title": "Living In This World With Cut & Paste"
 },
 {
-    "genre": "Romance,School Life,Comedy,Shounen,Slice of Life,Shounen,Manhua",
+    "genre": "Romance,School Life,Comedy,Shounen,Slice of Life,Shounen,Manga",
     "image_small":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh83XV6ukUv5mN53OcaQxfcuE30W7l01foi4T9CD9q7E3uROqzpNNjG5bkO7EoOHXJESB6AY_mgIGiQvC7Vndzanjin9IuIfTcLwnSKrH85Ln4m1mbMvnwy7aBiZBnKjLTzuvkd_3jptZtUz8NBPXf6yyX6PtlFikqo_4wBopJAgZvr3tbApdzp6Kw/s0/Horimiya-Manga.jpg",
     "link": "https://raw.githubusercontent.com/099fwm/paid992/main/data/Horimiya/",
     "rating": "4.5/5",
@@ -45,7 +69,7 @@
     "title": "Horimiya"
 },
 {
-    "genre": "Aduld,Action,Adventure,Fantasy,Romance,Comedy,Harem,Isekai,Ecchi,Manhua",
+    "genre": "Aduld,Action,Adventure,Fantasy,Romance,Comedy,Harem,Isekai,Ecchi,Manga",
     "image_small":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrRSPw63e6b2fzeaylLVC6RGh-59GrM9oOpsrdBE9xrEV8Wfc0kcFofTPMIC_LUrQoVj0sdB8JVLbV6PmxzkvyBlMdJgKcmTAJT4Hcn94sBPdrojRhPgljW1NDxapE6WRbr6tuxeuoqTSFhxX_RKmXRVkkgsQign8uK8db-sCUm9GxhdP6oi33hyA/s0/kekkon%20Yubiwa%20Monogatari%20poster+logo.png",
     "link": "https://raw.githubusercontent.com/099fwm/paid992/main/data/Kekkon%20Yubiwa%20Monogatari/",
     "rating": "4.7/5",
@@ -56,7 +80,7 @@
     "title": "Kekkon Yubiwa Monogatari"
 },
 {
-    "genre": "Action,Fantasy,Adventure,Horror,Isekai,Manhua",
+    "genre": "Action,Fantasy,Adventure,Horror,Isekai,Manga",
     "image_small":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjO2eVyL-b5tz6OCA4pLaSdG5Gs7DMW5mSoRcieO4dDm59ACs_sG4ZMkz1DLzjRK7j33QvjnE1hPqsbhrCkXtqVB_LxB-ln5z597nWX_skdq00o4yNYeGUL2jzINHD7Gux5d4saYDOkL_ncreNUrl4BykGofxOzt3ghB9pkKCLbKiF2Ag3wIeRCZUc/s1600/Nidome%20no%20Yuusha%20poster%20+%20logo.png",
     "link": "https://raw.githubusercontent.com/099fwm/paid992/main/data/Nidome%20no%20Yuusha/",
     "rating": "4.7/5",
@@ -78,7 +102,7 @@
     "title": "Gift [mugen Gacha] De Level 9999"
 },
 {
-    "genre": "Action,Adult,Ecchi,Cooking,Fantasy,Romance,Shounen,Supernatural,Manhua",
+    "genre": "Action,Adult,Ecchi,Cooking,Fantasy,Romance,Shounen,Supernatural,Manga",
     "image_small":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAsezR2Keb_BgxMZJnOQ4iESCXhTScfGyYooh4cP3WPtm15krSMSzBO3GDso1uUB1xfYK8tDQ75Xgf1wy6KgGxpUTzJB9BqsKodZvNQ1jSoq6Ixbmkfd5YSjsqFtihntYGK-FVYC1nSdQqzsl8mC0l9aTwN_QarcS3iTuijaF08k7Lzn-zG59OZj8/s0/001%20MM.png",
     "link": "https://raw.githubusercontent.com/099fwm/paid992/main/data/Area%20d%20-%20inou%20ryouiki/",
     "rating": "4.27/5",
@@ -89,7 +113,7 @@
     "title": "Area d - inou ryouiki"
 },
 {
-    "genre": "Action ,Adventure,Drama,Fantasy,Isekai,Manhua",
+    "genre": "Action ,Adventure,Drama,Fantasy,Isekai,Manga",
     "image_small":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghU0j_GFxzt9Y366KB5WcqF0wssCz-PfSoquKmZjoQiBdts4Lh2jfDULehS8D-zNEwvil2bkV8iGEEY_iOkNrrirh7VWTpYpXWfn1DjPK3jXsQxGw6Q9LpviohUVEHx1EUZ0iRP-G4drXDbSwlVi7PImNOnhY2z9TGG55cTz5_ktvXX-HP_a3CXA4/s0/poster+logo.png",
     "link": "https://raw.githubusercontent.com/099fwm/paid992/main/data/I%20Became%20The%20Strongest%20With%20The%20Failure%20Frame/",
     "rating": "4.73/5",
@@ -100,7 +124,7 @@
     "title": "I Became The Strongest With The Failure Frame"
 },    
 {
-    "genre": "Action ,Adventure,Comedy,Fantasy,Harem,Shounen,Isekai,Manhua",
+    "genre": "Action ,Adventure,Comedy,Fantasy,Harem,Shounen,Isekai,Manga",
     "image_small":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOQx1_UEc-POL_VpLUn3J8A7xuhTZdIFEoez6vjWCO2DBXN1Ss5tccRUkAG1VLEB3t9ekKMBnGyG0m2bQb5nn7OlS24NW5ogncAcMm2k6B_b6a1inYvIjMzxpwUPtATWNk4IXeTFPj7CKzbQQHuqmHiRK8nLnZ65k1DXS5LK_THpjZgJhnDfcC7JA/s0/poster%20+%20logo.png",
     "link": "https://raw.githubusercontent.com/099fwm/paid992/main/data/Konjiki%20No%20Moji%20Tsukai%20-%20Yuusha%20Yonin%20Ni%20Makikomareta%20Unique%20Cheat/",
     "rating": "4.47/5",
@@ -111,7 +135,7 @@
     "title": "Konjiki No Moji Tsukai - Yuusha Yonin Ni Makikomareta Unique Cheat"
 },
 {
-    "genre": "Action, Drama,Fantasy,Romance,Seinen,Romance,Isekai,Manhua",
+    "genre": "Action, Drama,Fantasy,Romance,Seinen,Romance,Isekai,Manga",
     "image_small": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmf3UdDV8raUmFIrOZFYs04i5zeXCggNYfyf1KoC7RdjFiUK9B2641oxQb7ff9h_PcAn_khHds6ufJFVmoiqa-92gGNDt8f5vEl4AqE_haUJlNbPDuIeCW2FBkqe2MvMbuF9dD74LKiMLT7GkALE91lp8VXw3ojubjiKkotvVfLBe1d9z7-PR7ChHU/s0/Drawing_The_Greatest_Mangaka_Becomes_A_Skilled_“Martial_Artist” poster + logo.png",
     "link": "https://raw.githubusercontent.com/099fwm/paid992/main/data/Drawing%3A%20The%20Greatest%20Mangaka%20Becomes%20A%20Skilled%20%E2%80%9CMartial%20Artist%E2%80%9D%20In%20Another%20World/",
     "rating": "4.7/5",
