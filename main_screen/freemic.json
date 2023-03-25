@@ -1,8 +1,32 @@
 [
 
+
 {
-    "genre": "Isekai,Manga",
-    "image_small":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjrOiIs_xnI2G1ULsgH9NCSr8MtyA9sE36WDgzXZ8F8BxCpVgK_BD4YnzUXF8dHQzd8XJPVnSxYLrmhqWNOOwBGgNakGBQ7Jdy0AFcdEWGlloanQIbZ3ka2DIaKGbwXivLa0iVaksWD-4c79iU6FJkgOEU2aHT_yjQEXOAKPKwnqPdBHNWq3P6upU/s0/slider.png",
+    "genre": "Adult,Manhwa,Manhua",
+    "image_small":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDbl5C26oN9vZLGl0uQa_OfRuHoOeZzVlI5y7j1agn6xdmtAZAxZV6vgdPfmjMngtDKdxqK799JgJbxn58WADhgTxe4YKbuaHaQLYeGMQWCj0xPe3uslWd-hge8pzjM1Lda6AfITZ2wZFVszdGd7xe-ecpsllmZho3XVYrlkdXbfHTouvKxKtW42VG9g/s1600/Fast%20Food.png",
+    "link": "https://raw.githubusercontent.com/099fwm/paid992/main/data/Adult_Fast%20Food/",
+    "rating": "-/5",
+    "review": "",
+    "series_id": "040",
+    "admob_id" : "testhousekeeper",
+    "status": "ongoing",
+    "title": "Fast Food"
+},
+
+{
+    "genre": "Action,Manhwa,Manhua",
+    "image_small":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgo0ncoDlz18Er4NgnrlU5FmfZ6RScXgmLOVHe91oTKk8XjHSXo5F4B0e8T8CUerHvmQOQA_7knCvNnCBfgdXHY9z-zlncMk9cCY1-3kq-ZTdVXFAHLCpkihlI41eRSIILxUjT4EDS9sHEcp6XTL-2L4hSgjHv_YHmREIbxM2Honq5VjuMqzkrIgwsulQ/s1600/Highschool%20Lunch%20Dad%20poster%20+%20location.png",
+    "link": "https://raw.githubusercontent.com/099fwm/paid992/main/data/Highschool%20Lunch%20Dad/",
+    "rating": "4/5",
+    "review": "",
+    "series_id": "039",
+    "admob_id" : "testhousekeeper",
+    "status": "ongoing",
+    "title": "Highschool Lunch Dad"
+},
+{
+    "genre": "Action,Adventure,Harem,Isekai,Manga",
+    "image_small":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL6Od8LBmTAmTbt1zEfD4Se1YlGx0ezQnMQhyKWMOoypjPivvTfR4nHlpn6I1tYnGaHeVZb59lfGUZTtFA6qpK-q33_02pBnzCv4UbCjG7v1ny1MG0O0itamodYVv09RsmNd1Kp-9QQ4gZI5lUKAlkWg39au1hfo1rYxWibjG1f6wSC-Vxf8QJqqkmow/s1600/Isekai%20De%20Te%20Ni%20Ireta%20Seisan%20Skill%20Wa%20Saikyou%20Datta%20You%20Desu%20logo%20+%20location.png",
     "link": "https://raw.githubusercontent.com/099fwm/paid992/main/data/Isekai%20De%20Te%20Ni%20Ireta%20Seisan%20Skill%20Wa%20Saikyou%20Datta%20You%20Desu/",
     "rating": "4.5/5",
     "review": "",
