@@ -1,9 +1,19 @@
 [
 
 
-
 {
-    "genre": "Action,Adventure,Time Travel,Fantasy, Manhwa",
+    "genre": "Harem,Romance,Manhua, Manhwa",
+    "image_small":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjO_vOSXgAnVFzV0JgRVFwPQdUD3WRusYMPbDmDY4OdpsQCJJjYAGKxqadhVCDmQVvIJFkVQKvbllsSBBXZ01GpmyVYY6JcNPHZ3mdFAKGFcdVktq6sigEGUAj_Dkv31pQH_nuTazukhsRpzdR3oDCJI589cD45m36kWp0UlgMxLvsCh9abGlKgs0F5tw/s0/Young%20House%20Maid.png",
+    "link": "https://raw.githubusercontent.com/099fwm/paid992/main/data/Adult_Young%20House%20Maid/",
+    "rating": "4.5/5",
+    "review": "comming soon",
+    "series_id": "049",
+    "admob_id" : "testhousekeeper",
+    "status": "ongoing",
+    "title": "Young House Maid"
+},
+{
+    "genre": "Action,Adventure,Time Travel,Fantasy, Manhwa,Manhua",
     "image_small":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmHRf9ojydUqZa4JYtPrecavbtcf640OcBRbXwON4rkUmWViUiLc14c8kRMAe3qdKUbIWkQ8i-RGxPlIvjnWm6Lk1Sokja0TmGI3h6JERclo4MsYCdd5jeht2DViM6ideSMVp80JvVbDFlQq5cxe6gzdflVoSonkN_AP14X063-WMSCpGxIxIW1l56iw/s0/Relife%20Player.jpg",
     "link": "https://raw.githubusercontent.com/099fwm/paid992/main/data/Relife%20player/",
     "rating": "4.7/5",
@@ -14,7 +24,7 @@
     "title": "Relife Player"
 },
 {
-    "genre": "Action,Adventure,Isekai,Fantasy, Manhwa",
+    "genre": "Action,Adventure,Isekai,Fantasy, Manhwa,Manhua",
     "image_small":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEQJaff2gLN82R4P8hP4CBVHyHMaNJeLNRC623AcTG3nl3WU_ttyMzZ9utJUWpvlJZify0KTZxvnAZ1qz0kFxzHmKz0IDNfOCyQSNLsP419ZjIuqMoDepQvZz2mc5nDH9am3UYdjBoXN2v-sH8T5_GR34oOof3y3BLvwucRh2qyhq8XRtoyf_bcqKBiw/s0/etrangere-1-285x399.jpg",
     "link": "https://raw.githubusercontent.com/099fwm/paid992/main/data/ETRANGERE/",
     "rating": "0.0/5",
